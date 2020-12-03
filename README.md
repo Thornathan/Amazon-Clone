@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# **Fake Amazon Mock UI**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Click the link to view the website
 
-## Available Scripts
+[Amazon Mock UI Website](https://clone-fb90e.web.app/)
 
-In the project directory, you can run:
 
-### `npm start`
+##### Mock Amazon UI built utilizing React, Redux, SASS, and more. Deployed to Firebase utilizing Firebase database and user authentication. Backend built using Express, Firebase, and Axios.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##### Payment processing built using Stripe. You can see that some payments have been processed below in the payment processing screenshot.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+###### For testing purposes: Enter 42424242... in all of the credit card fields for payment to be processed.
 
-### `npm test`
+#### Project Work:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##### https://github.com/Thornathan
 
-### `npm run build`
+#### LinkedIn:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### https://www.linkedin.com/in/jonathanalane/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Screenshot:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+[Home Page Sceenshot](https://imgur.com/3Ua2jzo)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[Cart Page Sceenshot](https://imgur.com/hs1zr9o)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Checkout Page Sceenshot](https://imgur.com/DOrrH9l)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Orders Page Sceenshot](https://imgur.com/JEQ8Hin)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[inProgress Page Sceenshot](https://imgur.com/jx9l3Pn)
 
-## Learn More
+[Login/SignUp Page Sceenshot](https://imgur.com/9KqadCr)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Stripe payments processed Sceenshot](https://imgur.com/reJKwYe)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Stripe payments graph Sceenshot](https://imgur.com/qLxgK1X)
 
-### Code Splitting
+## Technologies Used:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+##### 1. HTML5
 
-### Analyzing the Bundle Size
+##### 2. CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+##### 3. Sass
 
-### Making a Progressive Web App
+##### 4. JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+##### 5. Stripe
 
-### Advanced Configuration
+##### 6. React
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+##### 7. React Context API
 
-### Deployment
+##### 8. Node.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+##### 9. Firebase
 
-### `npm run build` fails to minify
+##### 10. Firebase Database
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##### 11. Firebase Authentication
+
+##### 12. CurrencyFormat
+
+##### 13. Git
+
+## Potential Next Steps:
+
+##### - [X] Update CSS further to make responsive on all size screens
+
+### View more of my work on my portfolio page
+
+[Jonathan Lane's Portfolio](http://www.lanewebdev.com/)
