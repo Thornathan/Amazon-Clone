@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 import "./App.css";
+import InProgress from "../../components/InProgress/InProgress";
 import Header from "../../components/Header/Header";
+import Footer from "../../components/Footer/Footer";
 import Home from "../Home/Home";
 import Checkout from "../Checkout/Checkout";
 import Login from "../../pages/Login/Login";
@@ -41,6 +43,9 @@ function App() {
     <Router>
       <div className="app">
         <Switch>
+          <Route exact path="/inProgress">
+            <InProgress />
+          </Route>
           <Route path="/orders">
             <Header />
             <Orders />
@@ -63,6 +68,7 @@ function App() {
             <Home />
           </Route>
         </Switch>
+        <Footer />
       </div>
     </Router>
   );
