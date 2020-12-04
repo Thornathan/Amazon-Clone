@@ -5,7 +5,7 @@
 [Amazon Mock UI Website](https://clone-fb90e.web.app/)
 
 
-##### Mock Amazon UI built utilizing React, Redux, SASS, and more. Deployed to Firebase utilizing Firebase database and user authentication. Backend built using Express, Firebase, and Axios.
+##### Mock Amazon UI built utilizing React, Redux, Materialize, and several others. Deployed to Firebase utilizing Firebase database and user authentication. Backend built using Express, Firebase, and Axios.
 
 ##### Payment processing built using Stripe. You can see that some payments have been processed below in the payment processing screenshot.
 
@@ -21,22 +21,38 @@
 
 ## Screenshot:
 
+#### Home Page
 
-[Home Page Sceenshot](https://imgur.com/3Ua2jzo)
+![Home Page Sceenshot](https://i.imgur.com/VsiN8l4.png)
 
-[Cart Page Sceenshot](https://imgur.com/hs1zr9o)
+#### Cart Page
 
-[Checkout Page Sceenshot](https://imgur.com/DOrrH9l)
+![Cart Page Sceenshot](https://i.imgur.com/gFXRsxt.png)
 
-[Orders Page Sceenshot](https://imgur.com/JEQ8Hin)
+#### Checkout Page
 
-[inProgress Page Sceenshot](https://imgur.com/jx9l3Pn)
+![Checkout Page Sceenshot](https://i.imgur.com/WwTnFAN.png)
+![Checkout Page Sceenshot](https://i.imgur.com/qLjuHlx.png)
 
-[Login/SignUp Page Sceenshot](https://imgur.com/9KqadCr)
+#### Orders Page
 
-[Stripe payments processed Sceenshot](https://imgur.com/reJKwYe)
+![Orders Page Sceenshot](https://i.imgur.com/j8H72NK.png)
 
-[Stripe payments graph Sceenshot](https://imgur.com/qLxgK1X)
+#### Inprogress Page
+
+![inProgress Page Sceenshot](https://i.imgur.com/5lqgM4l.png)
+
+#### Login/Signup Page
+
+![Login/SignUp Page Sceenshot](https://i.imgur.com/qZWKFUF.png)
+
+#### Stripe Payments Processed
+
+![Stripe payments processed Sceenshot](https://i.imgur.com/OiSEBux.png)
+
+#### Stripe Dashboard and Graphs
+
+![Stripe payments graph Sceenshot](https://i.imgur.com/Q6rZAQq.png)
 
 ## Technologies Used:
 
@@ -44,31 +60,35 @@
 
 ##### 2. CSS
 
-##### 3. Sass
+##### 3. JavaScript
 
-##### 4. JavaScript
+##### 4. Stripe
 
-##### 5. Stripe
+##### 5. React
 
-##### 6. React
+##### 6. React Context API
 
-##### 7. React Context API
+##### 7. Node.js
 
-##### 8. Node.js
+##### 8. Firebase
 
-##### 9. Firebase
+##### 9. Firebase Database
 
-##### 10. Firebase Database
+##### 10. Firebase Authentication
 
-##### 11. Firebase Authentication
+##### 11. CurrencyFormat
 
-##### 12. CurrencyFormat
+##### 12. Git
 
-##### 13. Git
+##### 13. Materialize + Icons
 
 ## Potential Next Steps:
 
-##### - [X] Update CSS further to make responsive on all size screens
+##### - [] Update CSS further to make responsive on all size screens
+
+##### - [] Create a more finished home page
+
+##### - [] Implement an email for orders that have been placed
 
 ### View more of my work on my portfolio page
 
