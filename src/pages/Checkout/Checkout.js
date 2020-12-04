@@ -5,7 +5,7 @@ import { useStateValue } from "../../StateProvider/StateProvider";
 import CheckoutProduct from "../../components/CheckoutProduct/CheckoutProduct";
 
 function Checkout() {
-  const [{ basket, user }, dispatch] = useStateValue();
+  const [{ basket, user }] = useStateValue();
 
   return (
     <div className="checkout">

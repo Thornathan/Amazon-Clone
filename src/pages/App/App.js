@@ -17,7 +17,7 @@ import { Elements } from "@stripe/react-stripe-js";
 const promise = loadStripe("pk_test_AphbAAIUATyQKESiU4EiMEhu");
 
 function App() {
-  const [{}, dispatch] = useStateValue();
+  const [, dispatch] = useStateValue();
 
   useEffect(() => {
     auth.onAuthStateChanged((authUser) => {
@@ -37,7 +37,7 @@ function App() {
         });
       }
     });
-  }, []);
+  }, [dispatch]);
 
   return (
     <Router>
